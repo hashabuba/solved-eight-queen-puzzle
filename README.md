@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-eight-queen-puzzle
+<br>
+The eight queen puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. The eight queen problem can be defined as follows: Place 8 queens on an (8 by 8) chess board such that none of the queens attacks any of the others. A solution configuration solution requires that no two queens share the same row, column, or diagonal like the following.
